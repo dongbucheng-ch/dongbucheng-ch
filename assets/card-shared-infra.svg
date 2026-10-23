@@ -1,0 +1,10 @@
+<svg width="380" height="120" viewBox="0 0 380 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="shared-infra">
+  <rect x="0.5" y="0.5" width="379" height="119" rx="6" fill="#282a36" stroke="#6272a4"/>
+  <text x="20" y="36" fill="#ff79c6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="600">shared-infra</text>
+  <text x="20" y="64" fill="#f8f8f2" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">共享 Docker 基建：数据库 / 中间件 / 向量库</text>
+  <text x="20" y="84" fill="#f8f8f2" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">统一编排，多项目复用一套容器与网络</text>
+  <circle cx="25" cy="105" r="5" fill="#89e051"/>
+  <text x="38" y="109" fill="#f8f8f2" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">Shell</text>
+  <circle cx="95" cy="105" r="5" fill="#218bea"/>
+  <text x="108" y="109" fill="#f8f8f2" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">Docker</text>
+</svg>

@@ -47,33 +47,27 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dongbucheng-ch/research-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dongbucheng-ch&repo=research-agent&theme=dracula&hide_border=true&locale=cn" alt="research-agent">
+        <img src="assets/card-research-agent.svg" alt="research-agent">
       </a>
-      <br>
-      <sub><b>研讯平台</b>：RSS / arXiv / Hacker News 多源采集 → LLM 富化打分 → 产出日报与深度文章</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/dongbucheng-ch/petzilla-microservices">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dongbucheng-ch&repo=petzilla-microservices&theme=dracula&hide_border=true&locale=cn" alt="petzilla-microservices">
+        <img src="assets/card-petzilla-microservices.svg" alt="petzilla-microservices">
       </a>
-      <br>
-      <sub><b>PETZILLA 微服务平台</b>：Go 编写的宠物生态微服务，覆盖商家、电商、支付、社区与 AI 服务</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dongbucheng-ch/shared-infra">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dongbucheng-ch&repo=shared-infra&theme=dracula&hide_border=true&locale=cn" alt="shared-infra">
+        <img src="assets/card-shared-infra.svg" alt="shared-infra">
       </a>
-      <br>
-      <sub><b>共享 Docker 基建</b>：数据库 / 中间件 / 向量库统一编排，多项目复用一套容器与网络</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/dongbucheng-ch/dong-s-Terminal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dongbucheng-ch&repo=dong-s-Terminal&theme=dracula&hide_border=true&locale=cn" alt="dong-s-Terminal">
+        <img src="assets/card-dong-s-terminal.svg" alt="dong-s-Terminal">
       </a>
       <br>
-      <sub><b>终端风格个人主页</b>：Vue 3 + Vite + Supabase 打造，支持弹幕互动，<a href="https://dong-s-terminal.vercel.app">在线体验</a></sub>
+      <sub><a href="https://dong-s-terminal.vercel.app">在线体验 →</a></sub>
     </td>
   </tr>
 </table>
