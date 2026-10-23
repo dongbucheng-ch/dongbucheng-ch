@@ -13,20 +13,15 @@
 
 ### 📌 精选项目
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/dongbucheng-ch/research-agent">
-        <img src="assets/card-research-agent.svg" alt="research-agent">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/dongbucheng-ch/shared-infra">
-        <img src="assets/card-shared-infra.svg" alt="shared-infra">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/dongbucheng-ch/research-agent">
+    <img width="380" src="assets/card-research-agent.svg" alt="research-agent">
+  </a>
+  &nbsp;
+  <a href="https://github.com/dongbucheng-ch/shared-infra">
+    <img width="380" src="assets/card-shared-infra.svg" alt="shared-infra">
+  </a>
+</div>
 
 ---
 
