@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/dongbucheng-ch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2F80ED&center=true&vCenter=true&width=560&lines=Hi%2C+I+am+%E8%B6%85%E5%92%8C%E5%B9%B3Burst;%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88+%C2%B7+AI+%E5%BA%94%E7%94%A8%E8%90%BD%E5%9C%B0;%E6%8A%8A+AI+%E5%81%9A%E6%88%90%E7%9C%9F%E6%AD%A3%E5%8F%AF%E7%94%A8%E7%9A%84%E4%BA%A7%E5%93%81" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2F80ED&center=true&vCenter=true&width=560&lines=I%27m+dongbucheng-ch;%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88+%C2%B7+AI+%E5%BA%94%E7%94%A8%E8%90%BD%E5%9C%B0;%E6%8A%8A+AI+%E5%81%9A%E6%88%90%E7%9C%9F%E6%AD%A3%E5%8F%AF%E7%94%A8%E7%9A%84%E4%BA%A7%E5%93%81" alt="Typing SVG" />
   </a>
 
   <p>
