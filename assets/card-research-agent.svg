@@ -1,8 +1,8 @@
 <svg width="380" height="120" viewBox="0 0 380 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="research-agent">
   <rect x="0.5" y="0.5" width="379" height="119" rx="6" fill="#282a36" stroke="#6272a4"/>
   <text x="20" y="36" fill="#ff79c6" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="600">research-agent</text>
-  <text x="20" y="64" fill="#f8f8f2" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">关键词驱动的研究与资讯采集平台：多源采集 → LLM</text>
-  <text x="20" y="84" fill="#f8f8f2" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">富化打分 → 产出日报与深度文章</text>
+  <text x="20" y="64" fill="#f8f8f2" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">AI 驱动的资讯采集与研究平台：多源采集 →</text>
+  <text x="20" y="84" fill="#f8f8f2" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">LLM 富化打分 → 自动产出日报与深度文章</text>
   <circle cx="25" cy="105" r="5" fill="#3572A5"/>
   <text x="38" y="109" fill="#f8f8f2" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12">Python</text>
   <circle cx="100" cy="105" r="5" fill="#2b7489"/>
